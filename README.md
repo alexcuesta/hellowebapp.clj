@@ -1,14 +1,12 @@
 # hellowebapp
 
-A Clojure library designed to ... well, that part is up to you.
+A classic 'hello world' web application in Clojure.
+
+Super simple, super easy to compile, deploy and run. You can make changes on the fly without having to restart server.
 
 ## Usage
 
-FIXME
+You should install Clojure and Leiningren.
+Then run:
 
-## License
-
-Copyright © 2016 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+$lein ring server
